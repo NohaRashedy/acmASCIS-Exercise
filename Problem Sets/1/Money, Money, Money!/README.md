@@ -1,0 +1,43 @@
+# Money, Money, Money!
+
+## Problem
+
+*Melo works in one of many happiness stores in his city.*
+
+*To make people happy, they sell candies!*
+
+*The store bought a package of **n***
+*candies, for **x** dollars each, and Melo wants to know the total profit the store is going to get after selling all **n** candies for **y** dollars each.* 
+
+*Help Melo by answering his question.*
+
+**Input**
+<br>
+*The only line of input contains 3 integers **n,x, and y (1≤n,x,y≤10^5,x≤y)***.
+
+**Output**
+<br>
+*Output one line containing the required answer.*
+
+## Rules
+
+  - *time limit per test: 0.25 seconds*
+  - *memory limit per test: 4 megabytes*
+  - *input: standard input*
+  - *output: standard output*
+  
+## Answer
+
+```
+#include <iostream>
+using namespace std;
+// Solved by Wasfy Elbaz
+int main() {
+
+	long long candies, purchasing_price, selling_price, profit;
+	cin >> candies >> purchasing_price >> selling_price;
+	profit = (candies * selling_price) - (candies * purchasing_price);
+	cout << profit;
+	return 0;
+}
+```
