@@ -1,4 +1,4 @@
-# Money, Money, Money!
+# Boo and The Equation
 
 ## Problem
 
