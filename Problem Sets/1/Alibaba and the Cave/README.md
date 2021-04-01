@@ -1,4 +1,4 @@
-# Boo and The Equation
+# Alibaba and the Cave
 
 ## Problem
 
