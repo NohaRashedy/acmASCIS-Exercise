@@ -1,7 +1,6 @@
 #include <iostream>
-
 using namespace std;
-
+// Solved by Wasfy Elbaz
 int main() {
 
 	long long a, b, c;
