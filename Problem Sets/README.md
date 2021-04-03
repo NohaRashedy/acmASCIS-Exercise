@@ -6,6 +6,7 @@
   - [Boo and The Equation](https://github.com/wasfyelbaz/acmASCIS-Exercies/tree/main/Problem%20Sets/1/Boo%20and%20The%20Equation)
   - [Alibaba and the Cave](https://github.com/wasfyelbaz/acmASCIS-Exercies/tree/main/Problem%20Sets/1/Alibaba%20and%20the%20Cave)
   - [Can you sort them](https://github.com/wasfyelbaz/acmASCIS-Exercies/tree/main/Problem%20Sets/1/Can%20you%20sort%20them)
-  - [Alibaba and the Cave](https://github.com/wasfyelbaz/acmASCIS-Exercies/tree/main/Problem%20Sets/1/Alibaba%20and%20the%20Cave)
-  - [Can you sort them](https://github.com/wasfyelbaz/acmASCIS-Exercies/tree/main/Problem%20Sets/1/Can%20you%20sort%20them)
-  - [Alibaba and the Cave](https://github.com/wasfyelbaz/acmASCIS-Exercies/tree/main/Problem%20Sets/1/Alibaba%20and%20the%20Cave)
+  
+  - [Is It 001](https://github.com/wasfyelbaz/acmASCIS-Exercies/tree/main/Problem%20Sets/1/Is%20It%20001)
+  - [KG2](https://github.com/wasfyelbaz/acmASCIS-Exercies/tree/main/Problem%20Sets/1/KG2)
+  - [Amazing Cave](https://github.com/wasfyelbaz/acmASCIS-Exercies/tree/main/Problem%20Sets/1/Amazing%20cave)
