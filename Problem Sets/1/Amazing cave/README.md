@@ -1,4 +1,4 @@
-# Can you sort them ?
+# Amazing Cave
 
 ## Problem
 
@@ -6,8 +6,6 @@
 
 *He found a piece of paper near the magical door written on it :*
 **"To open the magical door you should say X is "lucky" or "unlucky" also you should say X is "even" or "odd" ".**
-
-## a□b□c=d
 
 *Zoma knows that the lucky numbers are the numbers which ends with 4 or 7, can you tell Zoma the magical words to help him open the magical door?*
 
