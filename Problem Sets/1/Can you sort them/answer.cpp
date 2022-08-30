@@ -36,5 +36,29 @@ int main() {
 	else if (a == b && a == c) {
 		cout << a << " " << b << " " << c;
 	}
+	 else if (a == b){
+        if (c > a) {
+            cout << a << " " << b << " " << c;
+        }
+        else {
+            cout << c << " " << a << " " << b;
+        }
+   }
+    else if (c == b) {
+        if (a > c) {
+            cout << c << " " << b << " " << a;
+        }
+        else {
+            cout << a << " " << c << " " << b;
+        }
+    }
+    else if (a == c) {
+        if (b > a) {
+            cout << a << " " << c << " " << b;
+        }
+        else {
+            cout << c << " " << a << " " << b;
+        }
+    }
 	return 0;
 }
